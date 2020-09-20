@@ -1,2 +1,3 @@
 # Version_Control
-Learning Git
+Tyler Cranmer 
+Version Control
